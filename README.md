@@ -29,6 +29,8 @@ THEN I am again presented with current and future conditions for that city
 
 ## link to the deployed app!
 
+https://jacksonjjones.github.io/juicy_plant/
+
 ## Screenshot of Deployed app
 
 ![Screenshot of Deployed app](<weatherdashboard screenshot.png>)
