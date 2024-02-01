@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.current-weather-container {
+    border: 1px solid lightgray;
+}
+
+.forecast-card-details {
+    width: 18%;
+    padding: 7px 0 0 7px;
+    
+    
+}
+
+.forecast-date {
+    font-size: 23px;
+}
+
+.forecast-icon {
+    width: 75px;
+    height: 75px;
+    margin-bottom: 10px;
+}
+
+.forecast-temp, .forecast-humidity, .forecast-wind {
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.forecast-container {
+    padding-top: 5px;
+}
+
+.past-search-container{
+ text-align: center;
+ 
+}
+
+.search-history-container {
+    border-top: solid 2px lightgray;
+    margin-left: 8px;
+    margin-right:8px;
+    border-radius: 1px;
+    padding-top: 5px;
+}
+
+
+
+
+
